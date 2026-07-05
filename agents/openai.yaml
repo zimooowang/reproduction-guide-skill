@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reproduction Guide"
+  short_description: "Build evidence-driven ML reproduction guides"
+  default_prompt: "Use $reproduction-guide to create an evidence-driven reproduction guide for this paper or open-source ML project."
